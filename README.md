@@ -52,7 +52,7 @@ https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
   from sklearn.datasets import load_breast_cancer
   cancer = load_breast_cancer()
 # STEP #3: VISUALIZING THE DATA
-  Refer Code Notebook
+  ![github-small](https://github.com/antrixsh/Early-Stage-Breast-Cancer-Classification/blob/master/Data_Visualization/fig1.PNG)
 # STEP #4: MODEL TRAINING (FINDING A PROBLEM SOLUTION)
   Refer Code Notebook
 # STEP #5: EVALUATING THE MODEL
