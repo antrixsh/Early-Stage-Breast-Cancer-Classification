@@ -57,9 +57,10 @@ https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
   ![github-small](https://github.com/antrixsh/Early-Stage-Breast-Cancer-Classification/blob/master/Data_Visualization/fig3.PNG)
   ![github-small](https://github.com/antrixsh/Early-Stage-Breast-Cancer-Classification/blob/master/Data_Visualization/fig4.PNG)
 # STEP #4: MODEL TRAINING (FINDING A PROBLEM SOLUTION)
-  Refer Code Notebook
+  ![github-small](https://github.com/antrixsh/Early-Stage-Breast-Cancer-Classification/blob/master/Data_Visualization/fig3.PNG)
+  
 # STEP #5: EVALUATING THE MODEL
-  Refer Code Notebook
+  ![github-small](https://github.com/antrixsh/Early-Stage-Breast-Cancer-Classification/blob/master/Data_Visualization/fig4.PNG)
 # STEP #6: IMPROVING THE MODEL
   Refer Code Notebook  
 # IMPROVING THE MODEL - PART 2
